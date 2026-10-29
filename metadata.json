@@ -1,0 +1,6 @@
+{
+  "name": "Vanta Digital",
+  "description": "Client portal for Vanta Digital advertising agency to manage briefs, product photos, ad creatives, and revisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
